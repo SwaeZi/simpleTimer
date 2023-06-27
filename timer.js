@@ -50,7 +50,7 @@ class Timer {
   }
 
   refresh = () => {
-    this.timeRemaining = 10;
+    this.timeRemaining = 30;
   };
 }
 
